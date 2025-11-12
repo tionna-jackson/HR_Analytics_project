@@ -32,6 +32,9 @@ Identify key drivers of employee attrition, highlight at-risk groups, and provid
 ## 📊 Dashboard Preview
 ![Dashboard Preview] (https://github.com/tionna-jackson/HR_Analytics_project/blob/189cc30d48106f7d35af293b2bfa1be80e7b741e/Screenshot%202025-11-12%20113614.png)
 
+## 📊 Dashboard Video 
+(https://www.loom.com/share/cbe3ee2e10534acca4f36d17505aaff9)
+
 ## 🔗 Dataset
 [HR Analytics Dataset by Anshika2301 on Kaggle](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)
 
